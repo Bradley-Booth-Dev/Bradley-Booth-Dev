@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AirBnB-clone](https://github.com/Bradley-Booth-Dev/AirBnB-clone)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next JS 13**
 
 - 💬 Ask me about **JS,React,PSQL,HTML,Jest**
 
