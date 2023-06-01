@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradley-booth-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bradley-booth-dev" /> </p>
 
-- 🔭 I’m currently working on [sQuidsIn Splitting App](https://github.com/JPaulDev/squidsin-app)
+- 🔭 I’m currently working on [AirBnB-clone](https://github.com/Bradley-Booth-Dev/AirBnB-clone)
 
 - 🌱 I’m currently learning **React Native**
 
