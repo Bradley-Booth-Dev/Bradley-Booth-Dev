@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bradley Booth</h1>
 <h3 align="center">A passionate Junior Full Stack Developer from Leeds</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bradley-booth-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bradley-booth-dev" /> </p>
-
 - 🔭 I’m currently working on [AirBnB-clone](https://github.com/Bradley-Booth-Dev/AirBnB-clone)
 
 - 🌱 I’m currently learning **Next JS 13**
