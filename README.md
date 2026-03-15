@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bradley Booth</h1>
 <h3 align="center">A passionate Junior Full Stack Developer from Leeds</h3>
 
-- 🔭 I’m currently working on [The Odin Project]
+- 🔭 I’m currently working at One Compliance Cyber Ltd.
 
 - 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **JS,React,PSQL,HTML,Jest**
 
 - 📫 How to reach me **bradley.booth@hotmail.co.uk**
 
